@@ -1,6 +1,6 @@
 # BrestCancerClassification
 
-#this code gives a step by step procedure of how 
+#this code gives a step by step procedure of how to classify breat cancer based on certain weights
 ---------------------------------------------------------------------------------
 ### Project: BREAST CANCER CLASSIFICATION - SUPPORT VECTOR MACHINE CLASSIFIER ###
 ---------------------------------------------------------------------------------
